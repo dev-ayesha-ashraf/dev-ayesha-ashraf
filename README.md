@@ -1,9 +1,3 @@
-# Ayesha Ashraf  
-
-I'm a Full Stack Developer passionate about building modern web apps and solving real-world problems. 
-
----
-
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-ashraf-243395327) 
