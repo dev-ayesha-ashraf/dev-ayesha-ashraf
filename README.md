@@ -52,6 +52,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-ayesha-ashraf&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ayesha-ashraf&layout=compact&theme=tokyonight)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-ayesha-ashraf&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🏆 Top Contributed Repo
 
