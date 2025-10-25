@@ -46,6 +46,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+## Certifications
+- Build & Deploy Secure API with Python FASTAPI (Udemy) – [Certificate](https://ude.my/UC-ac3b7f93-357c-48d6-a5bb-d1307fc4c05c)
+
 ## 📊 GitHub Stats
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ayesha-ashraf&show_icons=true&theme=tokyonight)  
 
